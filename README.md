@@ -17,7 +17,4 @@ JavaScript
 
 ---
 
-My GitHub Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arxpw)](https://git.io/streak-stats)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arxpw)](https://github.com/anuraghazra/github-readme-stats)
