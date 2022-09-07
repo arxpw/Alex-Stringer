@@ -1,6 +1,6 @@
-### 👀 Welcome
+### Alex Stringer
 
-Welcome to my GitHub. When applicable, I try to open-source the code I create.
+Welcome to my GitHub profile. I try to open-source most of the code I write.
 
 ---
 
@@ -17,4 +17,4 @@ JavaScript
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arxpw)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arxpw&theme=dark&show_icons=true)
