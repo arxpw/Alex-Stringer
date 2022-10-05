@@ -1,10 +1,6 @@
-### Alex Stringer
+# [Alex Stringer](https://github.com/arxpw)
 
-Welcome to my GitHub profile. I try to open-source most of the code I write.
-
----
-
-I currently specialize in web development and frequently use the following languages and frameworks:
+I specialize in web development and frequently use the following languages and frameworks:
 
 PHP
 - Laravel
@@ -14,6 +10,9 @@ JavaScript
 - VueJS
 - React
 - ExpressJS
+
+Currently learning...
+- Go
 
 ---
 
