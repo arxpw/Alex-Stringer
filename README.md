@@ -2,17 +2,16 @@
 
 I specialize in web development and frequently use the following languages and frameworks:
 
+JavaScript
+- TypeScript
+- VueJS & Nuxt
+- React & Next
+- Express
+- Koa
+
 PHP
 - Laravel
 - Symfony
-
-JavaScript
-- VueJS
-- React
-- ExpressJS
-
-Currently learning...
-- Go
 
 ---
 
